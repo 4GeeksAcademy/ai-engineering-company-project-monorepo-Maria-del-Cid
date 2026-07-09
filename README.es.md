@@ -11,7 +11,7 @@ _These instructions are also available in [English](./README.md)._
 
 ## Propósito
 
-Este repositorio es la **plantilla de inicio** para los proyectos transversales. Trabajarás con escenarios de empresas reales (Brasaland, TrackFlow, Nexova) construyendo entregables que se corresponden con los hitos del curso (Web, Programación, Backend, Telemetría, RAG, Agentes, Workflows, Tiempo real).
+Este repositorio es la **plantilla de inicio** para los proyectos transversales. Trabajarás con escenarios de empresas reales (Brasaland TrackFlow, Nexova) construyendo entregables que se corresponden con los hitos del curso (Web, Programación, Backend, Telemetría, RAG, Agentes, Workflows, Tiempo real).
 
 - Crea una plantilla a partir de este repositorio.
 - Reemplaza el `CONTEXT.md` placeholder por el contexto de tu empresa asignada.
